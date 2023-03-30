@@ -1,6 +1,6 @@
 
 import pytest
-from test import Group
+from group import Group
 from application import Application
 
 @pytest.fixture
